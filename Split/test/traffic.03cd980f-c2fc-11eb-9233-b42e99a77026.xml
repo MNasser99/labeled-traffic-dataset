@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>traffic.03cd980f-c2fc-11eb-9233-b42e99a77026.jpg</filename>
+	<path>C:\Users\MNasser\Desktop\Object Detection Course\Project\TODCourse\TFODCourse\Tensorflow\workspace\images\test\traffic.03cd980f-c2fc-11eb-9233-b42e99a77026.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>251</ymin>
+			<xmax>373</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>211</ymin>
+			<xmax>368</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>
